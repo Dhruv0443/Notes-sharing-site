@@ -1,8 +1,10 @@
 .App {
   text-align: center;
+  color:rgb(179, 177, 177)
 }
 
 .App-logo {
+  background-color:mistyrose;
   height: 40vmin;
   pointer-events: none;
 }
